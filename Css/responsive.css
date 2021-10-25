@@ -1,0 +1,484 @@
+@media only screen and (max-width: 768px) {
+    .logo-sml {
+        width: 150px;
+
+    }
+
+    .img-fix-sml {
+        width: 45px;
+    }
+
+    .navigation-text ul li a {
+        margin-left: 0px;
+        font-size: 12px;
+    }
+
+    .profile-sml {
+        margin-left: -8px;
+    }
+
+
+    .join-btn-sml {
+        padding: 10px 15px 10px 15px !important;
+        margin-left: 0px;
+    }
+
+    .box1-sml {
+        margin-top: 130px;
+        width: 345px;
+        box-shadow: 1px 0px 27px -3px grey;
+        border-top-right-radius: 10px;
+        border-bottom-left-radius: 0px;
+    }
+
+    .slider-img1 {
+        width: 375px;
+    }
+
+    .text-sml {
+        margin: 0px;
+    }
+
+    .main-sml {
+        font-size: 16px;
+        margin-right: -54px
+    }
+
+    .sub-sml {
+        font-size: 16px;
+        margin-right: -60px
+    }
+
+    .last-sml {
+        font-size: 16px;
+        margin-right: -40px
+    }
+
+    .indicatiors {
+        position: absolute !important;
+        right: 0;
+        bottom: -130px !important;
+    }
+
+    .box3-sml {
+        border-top-right-radius: 0px;
+    }
+
+    .team p {
+        font-size: 14px;
+    }
+
+    .team h4 {
+        font-size: 18px;
+    }
+
+    .btn-team {
+        width: 90px;
+    }
+
+    .f-child p {
+        font-size: 12px;
+        margin-left: 68px;
+        margin-top: 45px;
+    }
+
+    .f-child h5 {
+        margin-left: 68px;
+        font-size: 16px;
+    }
+
+    .box-1 {
+        width: 80px;
+        margin-left: 65px;
+        margin-top: 30px;
+    }
+
+    .box-2 {
+        width: 80px;
+        margin-left: 15px;
+        margin-top: 30px;
+    }
+
+    .box-4 {
+        width: 80px;
+        margin-left: 35px;
+        margin-top: 30px;
+    }
+
+    .vl-sm {
+        display: none;
+    }
+
+    .s-child p {
+        font-size: 12px;
+        margin-left: 68px;
+        margin-top: 55px;
+    }
+
+    .s-child h5 {
+        font-size: 16px;
+        margin-left: 66px;
+
+    }
+
+    .th-child p {
+        font-size: 12px;
+        margin-left: 68px;
+        margin-top: 45px;
+    }
+
+    .th-child h5 {
+        font-size: 16px;
+        margin-left: 66px;
+
+    }
+
+    .fo-child p {
+        font-size: 12px;
+        margin-left: 68px;
+        margin-top: 50px;
+    }
+
+    .fo-child h5 {
+        font-size: 16px;
+        margin-left: 66px;
+
+    }
+
+    .fif-child p {
+        font-size: 12px;
+        margin-left: 68px;
+        margin-top: 45px;
+    }
+
+    .fif-child h5 {
+        font-size: 16px;
+        margin-left: 66px;
+        margin-bottom: 15px;
+
+    }
+
+    .hospital-sml {
+        margin-left: 210px;
+        margin-top: -45px;
+        border: 2px solid #ff6666;
+        border-radius: 5px;
+        padding: 3px;
+        font-size: 12px;
+    }
+
+    .m-section {
+        /* padding-bottom: 45px; */
+    }
+
+}
+
+@media only screen and (max-width: 768px) {
+
+    .about-sml {
+        padding: 0px;
+
+    }
+
+    .heading-sml {
+        margin-left: 0px;
+        margin-top: 15px;
+        padding-top: 45px;
+    }
+
+    .text-sub {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .text-p {
+        margin-left: 0px;
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+
+    .about-btn {
+        margin-left: 10px;
+        width: 105px;
+        display: inline;
+    }
+
+    .btn-contact {
+        margin-left: 10px;
+        width: 105px;
+    }
+
+    .img-about {
+        width: 100%;
+        margin-left: 0px;
+        margin-top: 45px;
+    }
+
+    .img-dot {
+        display: none;
+    }
+
+    .why-sml {
+        margin-top: 45px;
+    }
+
+    .med-btn-sml {
+        margin-top: -94px;
+        margin-left: 62px;
+        width: 164px;
+        height: 35px;
+    }
+
+    .med-btn-sml a {
+        font-size: 14px;
+        margin-left: -17px;
+    }
+
+    .med-sml {
+        margin-top: -95px;
+        margin-left: 63px;
+        width: 164px;
+        height: 35px;
+    }
+
+    .med-sml a {
+        margin-left: -15px;
+        font-size: 14px;
+    }
+
+    .heart-sml {
+        width: 56px;
+        position: relative;
+        top: -28px;
+        left: 217px;
+    }
+
+    .heart2-sml {
+        position: relative;
+        left: 212px;
+    }
+
+    .heart3-sml {
+        width: 64px;
+        position: relative;
+        top: -27px;
+        left: 209px;
+    }
+
+    .heart4-sml {
+        width: 64px;
+        position: relative;
+        top: -27px;
+        left: 212px;
+    }
+
+    .meet-sml {
+        padding: 30px;
+        padding-bottom: 45px;
+    }
+
+    .col-sml {
+        bottom: 0px;
+    }
+
+    .app-sml {
+        padding: 10px;
+    }
+
+    .show-btn {
+        margin-left: 68px;
+        width: 115px;
+    }
+
+    .store-btn {
+        width: 150px;
+        margin-left: 0px;
+    }
+
+    .store-btn img {
+        width: 45px;
+        padding: 9px;
+        margin-top: -4px;
+    }
+
+    .store-btn p {
+        position: relative;
+        top: -10px;
+        font-size: 10px;
+        left: -5px;
+    }
+
+    .store-btn h5 {
+        font-size: 18px;
+        font-family: auto;
+        margin-left: 43px;
+        margin-top: -30px;
+        padding-bottom: 5px;
+
+    }
+
+    .app-store {
+        width: 137px;
+        margin-left: 45px;
+        border-radius: 5px;
+        margin-top: -48px;
+        margin-left: 170px;
+    }
+
+    .app-store img {
+        width: 45px;
+        padding: 8px;
+        margin-top: -5px;
+    }
+
+    .app-store p {
+        display: inline-flex;
+        position: relative;
+        top: -10px;
+        font-size: 10px;
+    }
+
+    .app-store h5 {
+        font-size: 18px;
+        font-family: auto;
+        margin-left: 46px;
+        margin-top: -30px;
+        padding-bottom: 5px
+    }
+
+    .contact {
+        padding: 10px;
+        padding-top: 45px;
+        padding-bottom: 60px;
+    }
+
+    .btn-msg {
+        margin-left: 85px;
+        width: 150px;
+    }
+
+    .img-contact {
+        height: 400px;
+        margin-top: 10px;
+        margin-left: -5px;
+        width: 337px;
+
+    }
+
+    .footer-sm {
+        padding-bottom: 120px;
+
+    }
+
+    .info-mail {
+        margin-left: 0px;
+    }
+
+    .doc-icn-sm {
+        width: 60px;
+    }
+
+    .doc-icn2-sm {
+        width: 60px;
+        margin-right: 30px;
+        margin-top: 23px;
+    }
+
+    .center-main {
+        background-color: #ffffff;
+        z-index: 9999;
+        margin-top: -160px;
+        border-radius: 50px;
+        width: 345px;
+        position: relative;
+        top: 60px;
+    }
+
+    .sm-text {
+        position: relative;
+        top: 15px;
+        left: 50px;
+        font-size: 12px;
+    }
+
+    .num-sm {
+        margin-left: 40px;
+        font-size: 16px;
+    }
+
+    .or-sm {
+        margin-left: 150px;
+        font-size: 18px;
+    }
+
+    .sm-text1 {
+        position: relative;
+        top: 15px;
+        left: 115px;
+
+    }
+
+    .email {
+        font-size: 16px;
+        margin-left: 70px;
+    }
+
+    .f-bottom {
+        padding-top: 75px;
+
+    }
+
+    .logo-p {
+        font-size: 14px;
+        margin-top: 15px;
+    }
+
+    .privacy-sm {
+        padding-top: 45px;
+        font-size: 18px;
+    }
+
+    .footer-elements ul li a {
+        font-size: 14px;
+    }
+
+    .newsletter-sml h4 {
+        font-size: 18px;
+        font-weight: 700;
+        padding-top: 30px;
+    }
+
+    .newsletter-sml p {
+        font-size: 14px;
+    }
+
+    .arrow-sml {
+        margin-left: 280px;
+        border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+        width: 50px !important;
+        margin-top: -38px;
+
+    }
+
+    .store-btn-f {
+        width: 160px;
+    }
+
+    .store-btn-f img {
+        width: 45px;
+        margin-top: 0px;
+    }
+
+    .app-store-f {
+        width: 160px;
+        margin-left: 175px;
+        margin-top: -50px
+    }
+
+    .app-store-f img {
+        width: 45px;
+        margin-top: 0px;
+
+    }
+}
